@@ -4,6 +4,7 @@ date: 2025-08-02
 draft: false
 tags: ["AI", "technology", "trends", "artificial-intelligence", "2025"]
 author: "Kshitij"
+cover: "global-ai-boom.jpg"
 ---
 
 Walk into any boardroom, startup incubator, or hell, even your local Starbucks these days, and I guarantee you'll overhear someone passionately debating AI. But here's the thing – 2025 isn't just another year where we're all saying "AI is changing everything" while secretly wondering if it's all hype. This year feels different. The scale and sheer depth of AI's impact have hit what I can only call a tipping point, creating this massive AI scene boom that's happening everywhere – not just in Silicon Valley, but literally across every industry and corner of the globe.
