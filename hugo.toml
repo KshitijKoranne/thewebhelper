@@ -1,0 +1,57 @@
+baseURL = "https://kshitijkoranne.github.io/thewebhelper"
+languageCode = "en-us"
+title = "The Web Helper"
+theme = "terminal"
+
+# SEO and metadata
+[params.seo]
+description = "Web insights, tools, and tech industry analysis. Discover the latest in AI, web development, and digital tools. Features content about aztools.in and emerging technologies."
+keywords = "web development, AI technology, tech industry, digital tools, aztools, web insights, programming, artificial intelligence, technology trends"
+
+[pagination]
+pagerSize = 5
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[params]
+contentTypeName = "posts"
+themeColor = "green"
+showMenuItems = 2
+fullWidthTheme = false
+centerTheme = true
+autoCover = true
+showLanguageSelector = false
+readingTime = true
+showLastUpdated = true
+Toc = true
+
+# Site owner and branding
+subtitle = "Web in-sights and tools"
+owner = "Kshitij"
+
+[params.logo]
+logoText = "The Web Helper"
+logoHomeLink = "/"
+
+# Social media
+[params.twitter]
+creator = "kshitijkoranne"
+site = "kshitijkoranne"
+
+[params.social]
+twitter = "kshitijkoranne"
+facebook = "your_facebook_handle"
+instagram = "your_instagram_handle"
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts"

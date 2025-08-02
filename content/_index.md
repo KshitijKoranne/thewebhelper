@@ -1,8 +1,5 @@
 ---
-menu:
-    main:
-        name: Home
-        weight: 1
-        params:
-            icon: home
+title: "The Web Helper"
 ---
+
+Welcome to The Web Helper - your go-to resource for web development insights and tools.

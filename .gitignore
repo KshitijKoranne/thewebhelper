@@ -1,3 +1,28 @@
-public
-resources
+# Hugo build output
+public/
+resources/
+
+# Local development
 .hugo_build.lock
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Node modules (if any)
+node_modules/
+
+# Log files
+*.log

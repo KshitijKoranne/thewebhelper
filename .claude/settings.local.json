@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:stack.jimmycai.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(hugo:*)",
+      "Bash(git clone:*)",
+      "Bash(rm:*)",
+      "Bash(mv:*)",
+      "Bash(true)",
+      "Bash(rmdir:*)",
+      "Bash(brew install:*)",
+      "Bash(find:*)",
+      "WebFetch(domain:basicappleguy.com)",
+      "Bash(mkdir:*)"
+    ],
+    "deny": []
+  }
+}
