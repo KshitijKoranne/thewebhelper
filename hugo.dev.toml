@@ -1,4 +1,4 @@
-baseURL = "https://kshitijkoranne.github.io/thewebhelper"
+baseURL = "http://localhost:1313"
 languageCode = "en-us"
 title = "The Web Helper"
 theme = "terminal"

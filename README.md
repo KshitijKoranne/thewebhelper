@@ -50,8 +50,12 @@ git clone https://github.com/KshitijKoranne/thewebhelper.git
 cd thewebhelper
 
 # Install dependencies (Hugo Extended required)
-# Run local server
-hugo server -D
+
+# Run local development server (with localhost baseURL)
+hugo server -D --config hugo.dev.toml
+
+# Alternative: Run with drafts and localhost
+hugo server -D --baseURL "http://localhost:1313"
 
 # Build for production
 hugo --minify
