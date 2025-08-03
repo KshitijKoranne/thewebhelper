@@ -12,7 +12,8 @@
       "Bash(brew install:*)",
       "Bash(find:*)",
       "WebFetch(domain:basicappleguy.com)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(git commit:*)"
     ],
     "deny": []
   }

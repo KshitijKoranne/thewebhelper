@@ -66,13 +66,33 @@ thewebhelper.blog/
 
 ```bash
 # Local development
-hugo server -D
+hugo server -D --config hugo.dev.toml
 
 # Production build
 hugo --minify
 
 # Theme updates via submodule
 git submodule update --remote themes/terminal
+```
+
+### 📝 Content Guidelines
+
+**Image Paths for Blog Posts**:
+- Store images in `static/images/` directory
+- Reference in frontmatter as: `cover: "images/filename.jpg"`
+- DO NOT use leading slash `/images/` (causes 404 on GitHub Pages subdirectory)
+- Images are automatically processed with Hugo's image handling
+
+**Post Structure**:
+```markdown
+---
+title: "Post Title"
+date: YYYY-MM-DD
+draft: false
+tags: ["tag1", "tag2"]
+author: "Kshitij"
+cover: "images/cover-image.jpg"
+---
 ```
 
 ### 📊 Configuration Highlights

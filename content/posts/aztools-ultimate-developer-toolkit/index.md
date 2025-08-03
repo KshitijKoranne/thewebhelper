@@ -4,7 +4,7 @@ date: 2025-08-03
 draft: false
 tags: ["developer-tools", "productivity", "web-development", "utilities", "aztools"]
 author: "Kshitij"
-cover: "/images/aztools-image.jpg"
+cover: "images/aztools-image.jpg"
 ---
 
 In the fast-paced world of web development, having the right tools at your fingertips can make the difference between a productive day and hours of frustration. That's where [AZTools.in](https://www.aztools.in) comes in – a comprehensive collection of developer tools and utilities that's become an indispensable part of my daily workflow.
